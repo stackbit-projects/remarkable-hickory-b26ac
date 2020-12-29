@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/alexander-jawfox-I_9Qah21qcQ-unsplash.jpg
     image_alt: App preview
     title: INDER SPACE
     content: Esta es una prueba de cómo funciona stackbit
