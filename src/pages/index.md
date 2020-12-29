@@ -9,7 +9,7 @@ sections:
     content: Esta es una prueba de cómo funciona stackbit
     actions:
       - label: Comienza ¡GRATIS!
-        url: /features
+        url: /DASHBOARD
         style: primary
   - section_id: features
     type: section_features
