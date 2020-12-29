@@ -8,7 +8,7 @@ sections:
     title: INDER SPACE
     content: Esta es una prueba de cómo funciona stackbit
     actions:
-      - label: Comienza GRATIS!
+      - label: Comienza ¡GRATIS!
         url: /features
         style: primary
   - section_id: features
